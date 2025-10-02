@@ -25,7 +25,7 @@ To run this project, you'll need the following:
 1. Clone this repository to your local machine:
 
 ```shell
-   git clone https://github.com/shukur-alom/Spam_mail_detector_using_ML.git
+   git clone https://github.com/rehanrkhan11/Spam_detection_alert.git
 ```
 
 2. Install the required Python libraries using pip:
